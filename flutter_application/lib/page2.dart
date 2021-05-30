@@ -6,8 +6,6 @@ class Page2 extends StatefulWidget {
 }
 
 class _Page2State extends State<Page2> {
-  // This widget is the root of your application.
-
   // state
   String text = "";
 

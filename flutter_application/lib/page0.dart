@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'page1.dart';
 import 'page2.dart';
+import 'page3.dart';
 
 class Page0 extends StatefulWidget {
   @override
@@ -14,6 +15,10 @@ class _Page0State extends State<Page0> {
 
   void go_to_page2() {
     Navigator.push(context, MaterialPageRoute(builder: (context) => Page2()));
+  }
+
+  void go_to_page3() {
+    Navigator.push(context, MaterialPageRoute(builder: (context) => Page3()));
   }
 
   @override
@@ -38,6 +43,12 @@ class _Page0State extends State<Page0> {
                       onPressed: go_to_page2,
                       child:
                           Text("Text Inputs", style: TextStyle(fontSize: 25)))),
+              Align(
+                  alignment: Alignment.centerLeft,
+                  child: TextButton(
+                      onPressed: go_to_page3,
+                      child: Text("Switch, Dropdown, and Sliders",
+                          style: TextStyle(fontSize: 25)))),
             ])));
   }
 }

@@ -35,6 +35,23 @@
 
 	make a bunch of flutter common utils (in the projects folder)
 
+		drop down menu
+			https://yashodgayashan.medium.com/flutter-dropdown-button-widget-469794c886d0
+			https://medium.com/flutterdevs/dropdown-in-flutter-324ae9caa743
+
+		move each util to its own button
+
+		charts
+			make each chart have its own button
+            https://google.github.io/charts/flutter/gallery.html
+
+	    flutter canvas
+	    	draw
+	    		lines
+	    		rectangles
+	    		circles
+	    	maybe do an animation
+
 		for a centralized database
 			would be cool if it connected with your backend database common components
 			with app server scalability handled by aws
@@ -47,13 +64,34 @@
 				users (such as miners and users with bitcoin), they will be running the same
 				exact software.
 
-		switch
-		https://googleflutter.com/flutter-switch-example/
+		display videos (with play, pause, duration slider, ect.)
+		audio recording (with play, pause, duration slider, ect.)
+		phone calls
+		video chats
 
-        best looking charts ive found so far
-            https://google.github.io/charts/flutter/gallery.html
-        this ones ok too, but it only has bar, line, and pie charts
-            https://medium.com/flutter/beautiful-animated-charts-for-flutter-164940780b8c
+    figure out how to host the app / store a database on the server
+        maybe use firebase, maybe use "flutter build web" command
+            https://www.reddit.com/r/Flutter/comments/fsu5ew/hosting_a_flutter_web_app/
+        if you use firebase, then do tim's tutorial #8 (and the rest of the series)
+        it would be cool if i could host it on AWS though
+        flutter frontend with django backend
+        https://www.asapdevelopers.com/flutter-login-app-with-python-backend/
+
+    test the app performance on your real android phone
+        apparently iOS performance is "janky"
+            https://youtube.com/watch?v=L3iqmyoogfA&feature=share
+
+    would be cool also to figure out how to get my app in the android app store
+        cause apples app store isnt free
+        i could then test messaging services and other communication tools
+        with someone who has an android phone (dad?)
+
+    Customizing the AppBar in Flutter: An overview with examples
+    https://blog.logrocket.com/flutter-appbar-tutorial/
+
+    do the ad widget demo
+
+
 
 
 	make a flutter app for yourself
@@ -89,33 +127,6 @@
 			FlutterBlue is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 			https://github.com/han-so1omon/home-baked-app
 
-	then make a flutter app for work
-
-	then make a freelance flutter app
-
-	then get a flutter dev job
-		if you still need a job xD ... stonks!
-
-		standard flutter dev requirements:
-
-			Created multi-platform apps for iOS and Android using the Flutter development framework.
-			Experience developing with Dart, whether with Flutter or for the web.
-			Experience contributing to and managing high-scale production mobile apps.
-			Proficient in using version control and continuous integration
-			Experience with third-party libraries and APIs.
-
-			Have built At least two Android and/or iOS apps.
-			Proven working experience in software development.
-			Working experience in mobile development.
-			Have published one or more mobile apps in Google Play or App Store.
-			Working knowledge of the general mobile landscape, architectures, trends, and emerging technologies.
-			Understanding of the full mobile development life cycle, including automated testing and building.
-			
-			AWS Certification.
-
-		https://www.google.com/search?q=flutter+developer+jobs&oq=flutter+developer+jobs&aqs=chrome..69i57j0l9.3793j1j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjAkcG5wN7vAhVCvJ4KHVI6DBoQkd0GMAF6BAgGEAE#fpstate=tldetail&htivrt=jobs&htiq=flutter+developer+jobs&htidocid=xlb2aoDDApN3WLixAAAAAA%3D%3D&sxsrf=ALeKk03TTaT1HmW5MMfGNU6QV1jDRBwb_Q:1617330185466
-
-		https://www.google.com/search?q=flutter+developer+jobs&oq=flutter+developer+jobs&aqs=chrome..69i57j0l9.3793j1j7&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwjAkcG5wN7vAhVCvJ4KHVI6DBoQkd0GMAF6BAgGEAE#fpstate=tldetail&htivrt=jobs&htiq=flutter+developer+jobs&htidocid=XMjCJsd7WEc2GwjhAAAAAA%3D%3D&sxsrf=ALeKk03TTaT1HmW5MMfGNU6QV1jDRBwb_Q:1617330185466
 
 	get some fonts other than the default
 		times new roman
@@ -128,8 +139,6 @@
 	plugin warnings (from "flutter doctor") don't matter
 	https://github.com/flutter/flutter/issues/67986
 
-	so just move on with the tutorial
-
 	start android studio with:
 		cd /opt/android-studio/bin/
 		./studio.sh
@@ -138,48 +147,11 @@
 		/root/Android/Sdk
 		/root/AndroidStudioProjects/MyApplication
 
-	flutter sdk path
-		/root/flutter
 
-	make basic app frontend setup
-		text
-		images
-		buttons
-		text box to type in
-		sliders
-		drop down menu
-		pages
-		chats
-		forums (with sub threads)
-		file explorer
-		videos
-		phone calls
-		video chats
-
-	create photo vault app
-
-		download it on your phone
-
-		Derek Banas - Dart Tutorial
-		https://www.youtube.com/watch?v=OLjyCy-7U2U
-
-		Traversery Media - Flutter Crash Course
-		https://www.youtube.com/watch?v=1gDhl4leEzA
-
-		Flutter Docs
-		https://flutter.dev/docs/get-started/editor
 ```
 
 #### SOURCES:
 ```
-	Derek Banas - Dart Tutorial
-	https://www.youtube.com/watch?v=OLjyCy-7U2U
-
-	Traversery Media - Flutter Crash Course
-	https://www.youtube.com/watch?v=1gDhl4leEzA
-
-	Flutter Docs
-	https://flutter.dev/docs/get-started/editor
 ```
 
 
