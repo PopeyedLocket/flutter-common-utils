@@ -2,6 +2,8 @@
 
 
 
+
+
 #### DESCRIPTION:
 ```
 	Flutter components:
@@ -11,24 +13,6 @@
 		page navigation
 ```
 
-
-#### Important Paths:
-```
-	Flutter (aka flutter SDK) location: /usr/lib/flutter/bin
-	dart SDK path:                      /usr/lib/flutter/bin/cache/dart-sdk/
-	dart2js command path:               /usr/lib/flutter/bin/cache/dart-sdk/bin/dart2js
-
-	Android SDK:    /home/luke/Android/Sdk
-	ANDROID_HOME:   /home/luke/Android/Sdk
-	Java binary:    /home/luke/Android/android-studio/jre/bin/java
-	Android Studio: /home/luke/Android/android-studio/bin/studio.sh
-
-	Sublime Dart Plugins stuff:
-		~/.config/sublime-text-3/Packages/Dart
-			set the dart SDK path
-		open Sublime > Preferences > Settings > User (right tab)
-			set the dart SDK path
-```
 			
 #### TO DO:
 ```
@@ -146,12 +130,25 @@
 	root android sdk and projects paths
 		/root/Android/Sdk
 		/root/AndroidStudioProjects/MyApplication
-
-
 ```
 
-#### SOURCES:
+
+#### Important Paths:
 ```
+	Flutter (aka flutter SDK) location: /usr/lib/flutter/bin
+	dart SDK path:                      /usr/lib/flutter/bin/cache/dart-sdk/
+	dart2js command path:               /usr/lib/flutter/bin/cache/dart-sdk/bin/dart2js
+
+	Android SDK:    /home/luke/Android/Sdk
+	ANDROID_HOME:   /home/luke/Android/Sdk
+	Java binary:    /home/luke/Android/android-studio/jre/bin/java
+	Android Studio: /home/luke/Android/android-studio/bin/studio.sh
+
+	Sublime Dart Plugins stuff:
+		~/.config/sublime-text-3/Packages/Dart
+			set the dart SDK path
+		open Sublime > Preferences > Settings > User (right tab)
+			set the dart SDK path
 ```
 
 
