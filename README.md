@@ -1,4 +1,4 @@
-# flutter-common-components
+# flutter-common-uits
 
 
 
@@ -32,11 +32,9 @@
 			
 #### TO DO:
 ```
-	finish the flutter tutorials
-		see dart_and_flutter in the tutorials folder
-			next is to set up the coding env
 
-	make a bunch of flutter common components (in the projects folder)
+	make a bunch of flutter common utils (in the projects folder)
+
 		for a centralized database
 			would be cool if it connected with your backend database common components
 			with app server scalability handled by aws
@@ -51,6 +49,12 @@
 
 		switch
 		https://googleflutter.com/flutter-switch-example/
+
+        best looking charts ive found so far
+            https://google.github.io/charts/flutter/gallery.html
+        this ones ok too, but it only has bar, line, and pie charts
+            https://medium.com/flutter/beautiful-animated-charts-for-flutter-164940780b8c
+
 
 	make a flutter app for yourself
 		possible app ideas:
