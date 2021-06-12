@@ -19,11 +19,13 @@ class _Page1State extends State<Page1> {
   @override
   Widget build(BuildContext context) {
     // scaffold returns the basic structure of a widget (blank white page)
+    // SingleChildScrollView lets you scroll through it (on web not app)
+    // https://stackoverflow.com/questions/54156420/flutter-bottom-overflowed-by-119-pixels
     return Scaffold(
-        appBar: AppBar(
-            // toolbarHeight: 0.0, // remove appBar
-            ), //, title: Text("App Bar")),
-        body: Column(children: <Widget>[
+        resizeToAvoidBottomInset: false,
+        appBar: AppBar(title: Text("Static Text and Images")),
+        body: SingleChildScrollView(
+            child: Column(children: <Widget>[
           Align(
               alignment: Alignment.centerLeft,
               child: Text("\ndefault static text\n")),
@@ -44,6 +46,6 @@ class _Page1State extends State<Page1> {
                 style: TextStyle(fontSize: 20),
               )),
           Image.asset('assets/images/lake_image.jpg')
-        ]));
+        ])));
   }
 }
