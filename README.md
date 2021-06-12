@@ -44,12 +44,12 @@
 
 <br/>
 
-#### Static Text and Images
+#### Draw Shapes
 ![draw shapes](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/drawing_shapes.png?raw=true "Draw Shapes")
 
 <br/>
 
-#### Static Text and Images
+#### Page Responsive to Screen
 ![page responsive to screen](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/page_responsive_to_screen.png?raw=true "Page Responsive to Screen")
 
 
