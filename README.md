@@ -22,7 +22,7 @@
 		responsive webpages
 ```
 
-![static text and image](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/text_and_image.png?raw=true "Static Text and Images")
+![results](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/text_and_image.png?raw=true "Static Text and Images")
 
 ![text input](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/text_input.png?raw=true "Text Input")
 
