@@ -22,17 +22,17 @@
 		responsive webpages
 ```
 
-![results](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/text_and_image.png?raw=true "Static Text and Images")
+![results](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/text_and_image.png?raw=true "Static Text and Images")
 
-![text input](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/text_input.png?raw=true "Text Input")
+![text input](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/text_input.png?raw=true "Text Input")
 
-![button types](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/button_types.png?raw=true "Button Types")
+![button types](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/button_types.png?raw=true "Button Types")
 
-![bar chart](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/bar_chart.png?raw=true "Bar Chart")
+![bar chart](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/bar_chart.png?raw=true "Bar Chart")
 
-![draw shapes](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/drawing_shapes.png?raw=true "Draw Shapes")
+![draw shapes](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/drawing_shapes.png?raw=true "Draw Shapes")
 
-![page responsive to screen](https://github.com/PopeyedLocket/flutter-common-utils/blob/master/images/page_responsive_to_screen.png?raw=true "Page Responsive to Screen")
+![page responsive to screen](https://github.com/PopeyedLocket/flutter-common-utils/blob/main/images/page_responsive_to_screen.png?raw=true "Page Responsive to Screen")
 
 
 
